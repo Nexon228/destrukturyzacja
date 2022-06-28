@@ -1,1 +1,1 @@
-alert("hej")
+console.log("hej")
